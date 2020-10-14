@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array1 - consoleToepassing", "Array1 - consoleToepassing\Array1 - consoleToepassing.csproj", "{FA4D6E0C-5288-449F-BA8C-E855F3DFBB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4D6E0C-5288-449F-BA8C-E855F3DFBB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4D6E0C-5288-449F-BA8C-E855F3DFBB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4D6E0C-5288-449F-BA8C-E855F3DFBB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4D6E0C-5288-449F-BA8C-E855F3DFBB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52510DC5-1553-492B-8199-9EA9B710628C}
+	EndGlobalSection
+EndGlobal
